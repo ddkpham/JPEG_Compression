@@ -1,6 +1,6 @@
 # JPEG Compression Visualizer 
 
-This project was done to understand how all of the steps in JPEG Compression. The backend was built using PIL library to manipulate image data, flask to serve up a minimal backend and React was used to build the interface. 
+This project was done to get a better understanding of how all of the steps in JPEG Compression works. The backend was built using PIL library to manipulate image data, flask to serve up a minimal backend and React was used to build the interface. 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
